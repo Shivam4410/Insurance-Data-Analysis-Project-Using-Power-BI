@@ -2,15 +2,17 @@
 
 ## 📌 Introduction 
 
-An interactive Power BI dashboard built for Prism Insurance Pvt. Ltd. to visualize and analyze insurance policy and claim data. It provides actionable insights into customer demographics, policy performance, claim statuses, and financial metrics using dynamic charts and tables.
+An interactive Power BI dashboard built for Prism Insurance Pvt. Ltd. to visualize and analyze **insurance policy and claim data**. It provides actionable insights into **customer demographics, policy performance, claim statuses and financial metrics using dynamic charts and tables**
 
 ### 🟠 Purpose
-To transform raw insurance data into meaningful visualizations that support data-driven decision-making across departments such as underwriting, claims management, and customer service.
+
+To transform raw insurance data into meaningful visualizations that support data-driven decision-making across departments such as underwriting, claims management and customer service
 
 ---
 
 ## ❗ Problem Statement
-Prism Insurance Pvt. Ltd. manages a vast portfolio of insurance policies and claims across diverse customer segments. However, the absence of a centralized, visual analytics system makes it difficult to monitor claim performance, identify customer trends, and optimize policy offerings. This project addresses the challenge by transforming raw insurance data into an interactive Power BI dashboard that delivers real-time insights for strategic decision-making.
+
+Prism Insurance Pvt. Ltd. manages a vast portfolio of insurance policies and claims across diverse customer segments. However, the absence of a centralized, visual analytics system makes it difficult to monitor claim performance, identify customer trends, and optimize policy offerings. This project addresses the challenge by transforming raw insurance data into an interactive Power BI dashboard that delivers real-time insights for strategic decision-making
 
 ---
 
@@ -38,31 +40,34 @@ Prism Insurance Pvt. Ltd. manages a vast portfolio of insurance policies and cla
 
 ## 💡 Key Insights Delivered
 
-- Claim Status Distribution: Majority of claims are settled (~3.4K), followed by rejected (~2.4K) and pending (~2.3K).
-- Premium by Policy Type: Health policies contribute the highest premium (~2.5M), followed by Travel (~1.6M).
-- Claim Amount by Age Group: Adults account for the highest claim amount (~10M), indicating higher risk or coverage.
-- Policy Status: 58.13% of policies are inactive, suggesting potential churn or renewal issues.
-- Gender Distribution: Balanced customer base with 5001 females and 5003 males.  
+- **Claim Status Distribution** → Majority of claims are **settled (~3.4K), followed by rejected (~2.4K) and pending (~2.3K)**
+- **Premium by Policy Type** → Health policies contribute the **highest premium (~2.5M), followed by Travel (~1.6M)**
+- **Claim Amount by Age Group** → Adults account for the highest **claim amount (~10M), indicating higher risk or coverage**
+- **Policy Status** → 58.13% of policies are inactive, suggesting potential churn or renewal issues
+- **Gender Distribution** → Balanced customer base with 5001 females and 5003 males
 
 ---
+
 ## 🎯 Recommendations
-1. Targeted Retention Campaigns: Focus on converting inactive policies to active through personalized outreach.
-2. Claim Process Optimization: Investigate reasons behind high rejection rates and streamline documentation requirements.
-3. Product Strategy: Expand health insurance offerings given its financial contribution and popularity.
-4. Age-Based Risk Assessment: Reassess coverage strategies for adult customers to manage high claim volumes.
-5. Customer Segmentation: Use age and gender insights to tailor marketing and policy features.
+
+1. **Targeted Retention Campaigns** → Focus on converting inactive policies to active through personalized outreach
+2. **Claim Process Optimization** → Investigate reasons behind high rejection rates and streamline documentation requirements
+3. **Product Strategy** → Expand health insurance offerings given its financial contribution and popularity
+4. **Age-Based Risk Assessment** → Reassess coverage strategies for adult customers to manage high claim volumes
+5. **Customer Segmentation** → Use age and gender insights to tailor marketing and policy features
 
 ---
 
 ## 🛠 Tools & Skills Used
 
-- **Power BI Desktop**:  Main data visualization platform used for report creation.
+- **Power BI Desktop**:  Main data visualization platform used for report creation
 - **Microsoft SQL Server**: Extracting,data-type conversion and backend data storage and querying  
-- **Excel/CSV**: Raw data was imported from CSV files into MSSQL using the Excel data connector. 
-- **Power Query (ETL)**: Data transformation and cleaning layer for reshaping and preparing the data. 
+- **Excel/CSV**: Raw data was imported from CSV files into MSSQL using the Excel data connector
+- **Power Query (ETL)**: Data transformation and cleaning layer for reshaping and preparing the data
 - **Data Storytelling**: Turning dashboards into actionable insights
 
 ---
 
 ## ✅ Conclsuion
-This Power BI dashboard empowers Insurance data with a comprehensive view of its insurance operations. By leveraging data visualization and analytics, the company can make informed decisions to enhance customer satisfaction, optimize claims management, and drive business growth.
+
+This Power BI dashboard empowers Insurance data with a comprehensive view of its insurance operations. By leveraging data visualization and analytics, the company can make informed decisions to enhance customer satisfaction, optimize claims management, and drive business growth
